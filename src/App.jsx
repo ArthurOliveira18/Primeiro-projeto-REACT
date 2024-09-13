@@ -29,7 +29,7 @@ function App() {
       <MyComponent /> */}
 
 
-      <ComponentORemake></ComponentORemake>
+      <ComponentORemake/>
 
       <h1>Olha só um texto</h1>
 

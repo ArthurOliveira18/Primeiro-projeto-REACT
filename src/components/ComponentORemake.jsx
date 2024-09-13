@@ -1,4 +1,4 @@
-import styles  from "./ComponentORemake.modules.css"
+import styles  from "./ComponentORemake.module.css"
 
 const ComponentORemake = () => {
   return (
